@@ -1,6 +1,6 @@
 [package]
 name = "linked_list"
 version = "0.1.0"
-authors = ["lfordy200 <Lee_Fordyce@comcast.com>"]
+authors = ["lfordyce <leefordyce@gmail.com>"]
 
 [dependencies]
